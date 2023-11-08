@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danish-Jamil-01
+- 👋 Hi, I’m Danish Jamil.
 - 👀 I’m interested in AI and App development.
 - 🌱 I’m currently learning ML and DL.
 - 📫 How to reach me Email - danishja10@gmail.com.
