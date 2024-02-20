@@ -1,4 +1,4 @@
-<img align="center" alt="MasterHead" width="1000" height="450" src="https://64.media.tumblr.com/54f4fe3c7c2d7c1b8a6b68eb9b62338f/tumblr_phbq2fElHS1ut1d6co1_540.gif">
+<img align="center" alt="MasterHead" width="1000" height="350" src="https://64.media.tumblr.com/54f4fe3c7c2d7c1b8a6b68eb9b62338f/tumblr_phbq2fElHS1ut1d6co1_540.gif">
 <h1 align="center">Hi 👋, I'm Danish Jamil</h1>
 <img align="right" alt="Coding" width="400" src="https://updategadh.com/wp-content/uploads/2023/07/Java-web-project-configuration.gif">
 
