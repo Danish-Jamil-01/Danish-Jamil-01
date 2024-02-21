@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Danish Jamil</h1>
 <!--<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/21/61/5721612fc05e9d1604c1dcda922798e3.gif">-->
 
-- HELLO WORLDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
-
 
 - 🌱 I’m currently learning *DSA, Android Development, Machine Learning*
 
