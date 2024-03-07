@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact: *Knack for finding the perfect pun for any situation*
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
