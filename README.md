@@ -3,7 +3,7 @@
 <!--<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/21/61/5721612fc05e9d1604c1dcda922798e3.gif">-->
 
 
-- 🌱 I’m currently learning *DSA, Android Development, Machine Learning*
+- 🌱 I’m interested in *DSA, Android Development, Machine Learning*
 
 - 💬 Ask me about *C, C++, Java, Python*
 
