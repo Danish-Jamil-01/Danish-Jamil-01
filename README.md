@@ -1,6 +1,6 @@
-<img align="center" alt="MasterHead" width="1000" height="400" src="https://64.media.tumblr.com/54f4fe3c7c2d7c1b8a6b68eb9b62338f/tumblr_phbq2fElHS1ut1d6co1_540.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/21/61/5721612fc05e9d1604c1dcda922798e3.gif">
+<!--<img align="center" alt="MasterHead" width="1000" height="400" src="https://64.media.tumblr.com/54f4fe3c7c2d7c1b8a6b68eb9b62338f/tumblr_phbq2fElHS1ut1d6co1_540.gif">-->
 <h1 align="center">Hi 👋, I'm Danish Jamil</h1>
-<!--<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/21/61/5721612fc05e9d1604c1dcda922798e3.gif">-->
 
 
 - 🌱 I’m interested in *DSA, Android Development, Machine Learning*
